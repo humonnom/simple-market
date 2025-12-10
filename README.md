@@ -9,9 +9,11 @@
 * [구현 요구사항](https://github.com/humonnom/simple-market/issues/1)
 
 ## 2.Product List
-* 상품리스트 UI를 만드는 연습
+* 상품 목록 UI를 만드는 연습
+   * 요구사항 요약: 필터에 따라 상품 목록을 가져오고 페이지네이션을 구현합니다.
 * [구현 요구사항](https://github.com/humonnom/simple-market/issues/3)
 
 ## 3.Search Input
 * 검색창 UI를 만드는 연습
+   * 요구사항 요약: 검색 키워드를 활용하여 상품 목록를 가져옵니다.
 * [구현 요구사항](https://github.com/humonnom/simple-market/issues/5)
