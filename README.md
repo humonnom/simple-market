@@ -10,8 +10,8 @@
 
 ## 2.Product List
 * 상품리스트 UI를 만드는 연습
-* [구현 요구사항](https://github.com/humonnom/simple-market/issues/2)
+* [구현 요구사항](https://github.com/humonnom/simple-market/issues/3)
 
 ## 3.Search Input
 * 검색창 UI를 만드는 연습
-* [구현 요구사항](https://github.com/humonnom/simple-market/issues/3)
+* [구현 요구사항](https://github.com/humonnom/simple-market/issues/5)
